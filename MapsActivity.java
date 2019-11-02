@@ -1,4 +1,4 @@
-package com.example.parkingapplication;
+package com.example.parking_application;
 
 import androidx.fragment.app.FragmentActivity;
 
